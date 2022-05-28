@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HUD-Mobile-App",
+    "slug": "HUD-Mobile-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HUD-Mobile-App"
+}
